@@ -22,4 +22,5 @@ Contributions to this project are not currently open to the public, as it seems 
 
 ## License
 
-This project is licensed under the [MIT License](license). Feel free to use, modify, and distribute the code as per the terms of the license.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational or personal purposes as per the terms of the license.
+
